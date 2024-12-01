@@ -19,7 +19,7 @@ export default function Home() {
       <div className="container mx-auto px-4 pt-12">
         <div className="flex justify-center mb-1 pt-9 pb-5">
           <Image
-            src="https://files.catbox.moe/5gy908.png"
+            src="https://utfs.io/f/EZ28SpRiMaAcY93tdCVGuvr3zUECxdOm4TcZtXs9gyaAi1RM"
             alt="Poll App Logo"
             width={450}
             height={200}
