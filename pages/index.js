@@ -33,7 +33,7 @@ export default function Home() {
               Welcome!
             </h1>
             <p className="text-gray-400 mb-8 text-xl">
-              Here you can create poll and vote on polls created by others.
+              Here you can create polls and vote on polls created by others.
             </p>
             <button
               onClick={signInWithGitHub}
